@@ -1,0 +1,4 @@
+.tools/
+dist/
+assets/winvard.exe
+*.exe.tmp
